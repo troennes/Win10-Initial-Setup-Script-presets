@@ -227,5 +227,5 @@ UnpinStartMenuTiles
 UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
-WaitForKey
-Restart
+# WaitForKey
+# Restart
