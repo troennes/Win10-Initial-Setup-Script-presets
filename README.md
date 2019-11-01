@@ -7,3 +7,9 @@ For three types of Windows 10 images:
 - Normal: Everyday use
 - Dev: Development VM - assumes there's only the built-in Administrator user
 - Hacking: Pentest/Security VM - some built-in security features are turned off to make it easier to work with "malicious" binaries
+
+Run with
+
+```
+.\Win10.ps1 -include Win10.psm1 -preset hacking.preset
+```
