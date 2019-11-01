@@ -1,6 +1,6 @@
 ##########
 #
-# Customized preset for Hacking VM
+# Customized preset for Development VM
 #
 ##########
 # Win 10 / Server 2016 / Server 2019 Initial Setup Script - Default preset
@@ -227,5 +227,5 @@ UnpinStartMenuTiles
 UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
-WaitForKey
-Restart
+#WaitForKey
+#Restart
