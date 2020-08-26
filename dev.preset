@@ -20,7 +20,7 @@ DisableWiFiSense                # EnableWiFiSense
 DisableWebSearch              # EnableWebSearch
 DisableAppSuggestions           # EnableAppSuggestions
 DisableActivityHistory          # EnableActivityHistory
-DisableBackgroundApps           # EnableBackgroundApps
+DisableUWPBackgroundApps           # EnableBackgroundApps   # new function name since v3.10
 # DisableSensors                # EnableSensors
 DisableLocation                 # EnableLocation
 DisableMapUpdates               # EnableMapUpdates
@@ -135,7 +135,7 @@ DisableShortcutInName           # EnableShortcutInName
 # HideShortcutArrow             # ShowShortcutArrow
 SetVisualFXPerformance          # SetVisualFXAppearance										# performance reasons on vms to add
 # EnableTitleBarColor           # DisableTitleBarColor
-EnableDarkTheme               # DisableDarkTheme
+SetAppsDarkMode               # DisableDarkTheme          # new function name since v3.10
 # AddENKeyboard                 # RemoveENKeyboard
 EnableNumlock                 # DisableNumlock
 DisableEnhPointerPrecision    # EnableEnhPointerPrecision
