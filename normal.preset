@@ -1,6 +1,6 @@
 ##########
 #
-# Customized preset for Hacking VM
+# Customized preset for everyday use Windows VM
 #
 ##########
 # Win 10 / Server 2016 / Server 2019 Initial Setup Script - Default preset
@@ -85,7 +85,7 @@ DisableUpdateMSRT             # EnableUpdateMSRT				# disable malicious software
 # DisableUpdateDriver           # EnableUpdateDriver
 EnableUpdateMSProducts          # DisableUpdateMSProducts
 # DisableUpdateAutoDownload     # EnableUpdateAutoDownload
-DisableUpdateRestart            # EnableUpdateRestart			
+# DisableUpdateRestart            # EnableUpdateRestart			
 DisableMaintenanceWakeUp        # EnableMaintenanceWakeUp
 DisableSharedExperiences        # EnableSharedExperiences
 # EnableClipboardHistory        # DisableClipboardHistory
